@@ -1,0 +1,5 @@
+classes = 4
+train = /home/my_name/train.txt
+valid = /home/my_name/test.txt
+names = /home/my_name/classes.names
+backup = backup
